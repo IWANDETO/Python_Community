@@ -1,5 +1,4 @@
 #/bin/bash/python3
-import mysql.connector
 
 class Database:
     my_db = my_cursor = None
